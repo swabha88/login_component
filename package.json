@@ -1,0 +1,22 @@
+{
+  "name": "login_component",
+  "version": "1.0.0",
+  "description": "Component for scaffoling with login view.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swabha88/login_component.git"
+  },
+  "keywords": [
+    "login"
+  ],
+  "author": "Swabha Rajapaksha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swabha88/login_component/issues"
+  },
+  "homepage": "https://github.com/swabha88/login_component#readme"
+}
