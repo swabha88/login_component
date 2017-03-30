@@ -3,13 +3,8 @@
   "version": "1.0.0",
   "description": "Component for scaffoling with login view.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "devDependencies" :{},
-  "scripts":{
-  "start" : "node index.js",
-  "uglify" : "gulp compress"
+  "bin": {
+    "logincli": "./exporter.bat"
   },
   "repository": {
     "type": "git",
