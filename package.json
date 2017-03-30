@@ -1,6 +1,6 @@
 {
   "name": "logincli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "\"git init\" on steroids",
   "main": "index.js",
   "license": "ISC",
