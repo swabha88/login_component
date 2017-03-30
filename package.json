@@ -1,22 +1,10 @@
 {
-  "name": "login_component",
+  "name": "logincli",
   "version": "1.0.0",
-  "description": "Component for scaffoling with login view.",
+  "description": "\"git init\" on steroids",
   "main": "index.js",
+  "license": "ISC",
   "bin": {
     "logincli": "./exporter.bat"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/swabha88/login_component.git"
-  },
-  "keywords": [
-    "login"
-  ],
-  "author": "Swabha Rajapaksha",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/swabha88/login_component/issues"
-  },
-  "homepage": "https://github.com/swabha88/login_component#readme"
+  }
 }
